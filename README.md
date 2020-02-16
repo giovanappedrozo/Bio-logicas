@@ -1,4 +1,4 @@
-<h1><i> BIO-LÓGICAS </i></h1>
+<h1><i> BIO-LÓGICAS </i></h1> <br>
 <img src="https://github.com/giovanappedrozo/biologicas/blob/master/logo.bmp"height="300"><br>
 <h2> OBJETIVOS: </h2> <br>
 O jogo “Bio-Lógicas” é uma maneira lúdica e divertida de aprender sobre os conceitos de biomas mundiais e suas características, através do reconhecimento de padrões presentes em cada bioma de acordo com sua fauna, flora ou clima.
